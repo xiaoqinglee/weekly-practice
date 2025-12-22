@@ -8,7 +8,6 @@
 * https://github.com/coleam00/Archon
 * https://github.com/onlook-dev/onlook
 * https://onlook.com/
-* https://github.com/HKUDS/DeepCode
 * [Serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities
 
 ### Low Code
@@ -74,19 +73,10 @@
 
 ### Chat2DB
 
-* https://github.com/Sinaptik-AI/pandas-ai
-* https://pandas-ai.com/
-* https://github.com/dataease/SQLBot
-* https://dataease.cn/sqlbot/
 * https://github.com/googleapis/genai-toolbox
 * https://googleapis.github.io/genai-toolbox/getting-started/introduction/
 * https://github.com/dream-num/univer
 * https://univer.ai/
-* https://github.com/chartdb/chartdb
-    * https://chartdb.io/
-* [WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-    * https://getwren.ai/oss
-* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 
 ### RAG
 
@@ -100,16 +90,7 @@
 
 ### Workflow Builder
 
-* https://github.com/langflow-ai/langflow
-* https://github.com/simstudioai/sim
-    * https://www.sim.ai/
 * [Pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-* [Activepieces](https://github.com/activepieces/activepieces)
-* [Kestra](https://github.com/kestra-io/kestra) - Universal Workflow Orchestration Platform
-    * https://kestra.io/
-
-### n8n
-
 * https://github.com/enescingoz/awesome-n8n-templates
 * https://n8n.partnerlinks.io/h1pwwf5m4toe
 * https://github.com/Zie619/n8n-workflows
@@ -182,7 +163,6 @@
 
 ### TTS & STT
 
-* [Chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 * [WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 * [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
 
@@ -198,13 +178,6 @@
 * https://github.com/tadata-org/fastapi_mcp
 * https://fastapi-mcp.tadata.com/
 * [MCP Registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for MCP servers.
-
-### Financial Agent
-
-* [OpenBB](https://github.com/OpenBB-finance/OpenBB)
-    * https://openbb.co/
-* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open-Source Financial Large Language Models!
-    * https://ai4finance.org/
 
 ### ML
 
@@ -532,3 +505,43 @@ Pass through
 
 https://docs.litellm.ai/docs/pass_through/intro
 https://docs.litellm.ai/docs/proxy/pass_through
+
+## LLM
+
+https://huggingface.co/blog/peft
+https://huggingface.co/docs/transformers/peft
+https://huggingface.co/learn/llm-course/chapter11/4
+
+https://www.zhihu.com/question/666943660/answer/1937268210748621561
+
+https://github.com/datawhalechina/self-llm
+https://github.com/datawhalechina/happy-llm
+https://github.com/liguodongiot/llm-action
+https://github.com/mlabonne/llm-course
+https://github.com/rasbt/LLMs-from-scratch
+https://github.com/coderonion/awesome-llm-and-aigc
+
+https://zhuanlan.zhihu.com/p/1902801587065304252
+https://zhuanlan.zhihu.com/p/1903822391022424589
+https://zhuanlan.zhihu.com/p/1903398162057626667
+
+https://zhuanlan.zhihu.com/p/1903848838214705484
+https://zhuanlan.zhihu.com/p/702491999
+https://zhuanlan.zhihu.com/p/1943822388358800072
+
+https://docs.unsloth.ai/get-started/fine-tuning-llms-guide
+https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide
+https://docs.unsloth.ai/get-started/unsloth-notebooks
+
+https://qwen.readthedocs.io/en/latest/training/unsloth.html
+https://qwen.readthedocs.io/en/latest/training/axolotl.html
+
+https://www.cnblogs.com/xiao987334176/p/18922128
+https://hjk.life/posts/qwen3-fine-tuning/
+https://docs.swanlab.cn/examples/mlx_lm_finetune.html
+
+https://github.com/Fission-AI/OpenSpec
+https://github.com/langchain-ai/langgraph
+https://docs.langchain.com/oss/python/deepagents/overview
+https://github.com/agentscope-ai/agentscope
+https://doc.agentscope.io/zh_CN/tutorial/quickstart_installation.html

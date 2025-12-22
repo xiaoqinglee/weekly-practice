@@ -1,5 +1,9 @@
 ## RAG
 
+### 入门
+
+* [RAG From Scratch](https://github.com/langchain-ai/rag-from-scratch/)
+
 ### 论文
 
 * [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://arxiv.org/abs/2403.14403)
@@ -12,6 +16,7 @@
 
 * [RAGFlow](https://github.com/infiniflow/ragflow) - an open-source RAG engine based on deep document understanding.
 * [GraphRAG](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
+* [WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 
 ### 文档处理
 
@@ -54,19 +59,33 @@
 
 #### 数据问答
 
+* [MindsDB](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
+    * https://mindsdb.com/
+* [Data Formulator](https://github.com/microsoft/data-formulator) - Create rich visualizations with AI
+* [Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+    * https://chat2db.ai/
+* [Vanna](https://github.com/vanna-ai/vanna) - Chat with your SQL database. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval.
+    * https://vanna.ai/
+* [SQLBot](https://github.com/dataease/SQLBot) -  基于大模型和 RAG 的智能问数系统，对话式数据分析神器。
+    * https://sqlbot.org/
+* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL and Agents
+    * http://docs.dbgpt.cn/
+* [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+    * https://pandas-ai.com/
+* [WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+    * https://getwren.ai/oss
+* [ChartDB](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+    * https://chartdb.io/
 * [caesarhq/textSQL](https://github.com/caesarhq/textSQL) - uses LLMs to democratize access to data analysis.
 	* [Census GPT](https://censusgpt.com/)
 	* [San Francisco GPT](https://censusgpt.com/SF)
 * [AI2sql](https://www.ai2sql.io/) - Write SQL queries with no knowledge of SQL
 * [AI Query](https://aiquery.co/) - Generate SQL Queries with AI in Seconds
 * [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-* [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 智能的通用数据库SQL客户端和报表工具
-* [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 * [SQL Translator](https://github.com/whoiskatrin/sql-translator) - SQL to Natural Language and Natural Language to SQL
 * [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 * [Dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
 * [DeepInsight-AI/DeepBI](https://github.com/DeepInsight-AI/DeepBI) - LLM based data scientist, AI native data application. AI-driven infinite thinking redefines BI.
-* [PandasAI](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 
 ### 词嵌入
 
