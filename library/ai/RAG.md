@@ -3,6 +3,8 @@
 ### 入门
 
 * [RAG From Scratch](https://github.com/langchain-ai/rag-from-scratch/)
+* [Building a Complex, Production-Ready RAG System](https://github.com/FareedKhan-dev/complex-RAG-guide)
+* [Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems](https://github.com/NirDiamant/RAG_Techniques)
 
 ### 论文
 
@@ -12,24 +14,40 @@
 * [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)
 * [Chain-of-Retrieval Augmented Generation](https://arxiv.org/abs/2501.14342)
 
-### 开源框架
+#### 表格 RAG
+
+* [TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/abs/2410.04739)
+* [RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking](https://arxiv.org/abs/2504.01346)
+* [TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning](https://arxiv.org/abs/2506.10380)
+* [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey](https://arxiv.org/abs/2402.17944)
+
+### 开源项目
 
 * [RAGFlow](https://github.com/infiniflow/ragflow) - an open-source RAG engine based on deep document understanding.
 * [GraphRAG](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 * [WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+* [localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+* [DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+* [FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+    * https://fastgpt.io/
+* [QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
+* [UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 
 ### 文档处理
 
+* [MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+* [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
+* [Marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+* [Docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 * [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [olmOCR](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 * [Zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 * [Surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
-* [Marker](https://github.com/vikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
-### 信息检索
+### 信息提取
 
-
+* [LangExtract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
 ### 应用场景
 
@@ -40,16 +58,12 @@
 	* [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Search and chat with your personal knowledge base
 * [HelpLook](https://www.helplook.net/) - 快速搭建知识库/帮助中心/企业博客，并基于现有知识数据与AI模型，定制企业级专属「AI问答机器人」
 * [Chatbase](https://www.chatbase.co/) - Custom ChatGPT for your data
-* [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-* [我让 ChatGPT 化身为全知全能的文档小助理](https://mp.weixin.qq.com/s/HJ1LHGCjPL0qjf8e7bMLjg)
 * [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF!
 * [ChatDOC](https://chatdoc.com/) - Chat with your documents
 * [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and chat with it using your Generative AI Second Brain using LLMs & Embeddings
 * [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 * [PDF GPT](https://github.com/bhaskatripathi/pdfGPT) - allows you to chat with the contents of your PDF file by using GPT capabilities.
 * [GenAI Stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j
-* [FastGPT](https://tryfastgpt.ai/) - 基于 LLM 大模型的 AI 知识库构建平台
-* [QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 
 #### 网页助手
 

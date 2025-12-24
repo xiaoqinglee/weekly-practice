@@ -78,29 +78,13 @@ https://zhuanlan.zhihu.com/p/633696599
 
 https://github.com/mindee/doctr
 
-## docling
-
-https://github.com/DS4SD/docling
-
 ## omniparse
 
 https://github.com/adithya-s-k/omniparse
 
-## marker
-
-https://github.com/VikParuchuri/marker
-
 ## surya
 
 https://github.com/VikParuchuri/surya
-
-## MinerU
-
-https://github.com/opendatalab/MinerU
-
-## PDF-Extract-Kit
-
-https://github.com/opendatalab/PDF-Extract-Kit
 
 ## zerox
 
